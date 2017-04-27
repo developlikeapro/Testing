@@ -34,6 +34,15 @@ namespace Server
                 goto x;
                 
             }
+            else if (a == 2)
+            {
+                Console.WriteLine("Write Your Msg");
+                string input = Console.ReadLine();
+                ss.Send(ASCIIEncoding.ASCII.GetBytes(input));
+                Console.WriteLine("Msg Sending...");
+                //ss.Close();
+                goto x;
+            }
            
             else
             {
