@@ -4,3 +4,9 @@ c:\users\dani brothers\documents\visual studio 2013\Projects\Server\Server\bin\D
 c:\users\dani brothers\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.exe
 c:\users\dani brothers\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.pdb
 c:\users\dani brothers\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Dani Brothers\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Dani Brothers\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\Dani Brothers\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\Users\Dani Brothers\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\Dani Brothers\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\Dani Brothers\Desktop\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
